@@ -6,7 +6,7 @@
 
 ![Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=aspandrade&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspandrade&layout=compact)
 ## Tecnologias que eu uso no meu dia
 
 <div style="1display: inline_block"><br/>
